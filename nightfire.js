@@ -3,4 +3,5 @@ elements.nightfire = {
   category: "gases", 
   state: "gas", 
   color: ["#404040", "#545454"],
+  reactions: {},
 };
