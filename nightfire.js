@@ -1,5 +1,5 @@
 elements.nightfire = {
-  name: nightfire,
+  name: "nightfire",
   behavior: behaviors.GAS,
   movable: true,
   category: "special", 
