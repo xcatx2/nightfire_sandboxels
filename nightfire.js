@@ -1,6 +1,6 @@
 elements.nightfire = {
-  behaviour: behaviours.GAS,
+  behavior: behaviors.GAS,
   category: "gases", 
   state: "gas", 
-  colour: ["#404040", "#545454"]
+  color: ["#404040", "#545454"]
 };
